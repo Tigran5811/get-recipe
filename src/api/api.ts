@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import OpenAI from "openai";
 const openai = new OpenAI({
-  apiKey: "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",
+  apiKey: "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",
   organization: "org-oJqA3X89TZTCik3UCUQadzTQ",
   dangerouslyAllowBrowser: true,
 });
